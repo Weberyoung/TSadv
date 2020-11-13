@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/UCRDataSummary.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/attack_time_series.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/AllGestureWiimoteX/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/Car/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/ChlorineConcentration/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/CinCECGTorso/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/DodgerLoopDay/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/ECG200/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/ECG5000/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/ECGFiveDays/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/Earthquakes/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/FordA/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/FordB/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/FreezerRegularTrain/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/InsectWingbeatSound/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/ItalyPowerDemand/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/Lightning2/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/Lightning7/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/NonInvasiveFetalECGThorax1/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/NonInvasiveFetalECGThorax2/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/Phoneme/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/Plane/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/SonyAIBORobotSurface2/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/StarLightCurves/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm/Trace/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm0.04/Car/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm0.04/ChlorineConcentration/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm0.04/Earthquakes/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fgsm0.04/Lightning7/info_fgsm.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result_0.012_3_f/Car/information.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result_0.01_3_f/Car/information.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result_0.01_3_f/ECG200/information.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result_0.01_3_f/Earthquakes/information.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result_0.01_3_f/ItalyPowerDemand/information.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result_0.01_3_f/Lightning2/information.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result_0.01_3_f/Lightning7/information.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result_0.01_3_f/PickupGestureWiimoteZ/information.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result_0.01_3_f/ShakeGestureWiimoteZ/information.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result_0.04_3_f/AllGestureWiimoteX/information.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result_0.04_3_f/AllGestureWiimoteY/information.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result_0.04_3_f/AllGestureWiimoteZ/information.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result_0.04_3_f/EOGHorizontalSignal/information.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result_0.04_3_f/FordB/information.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result_0.04_3_f/ItalyPowerDemand/information.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result_0.04_3_f/Plane/information.txt" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
