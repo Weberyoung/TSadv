@@ -48,7 +48,7 @@ def query_one(run_tag, idx, attack_ts, target_class=-1, normalize=False,
 
     ts = ts.to(device)
     X = X.to(device)
-    model_path = 'model_checkpoints/' + run_tag + '/' + model_type + str(e) + 'epoch.pth'
+    model_path = 'model_checkpoints/' + run_tag + '/pre_trained.pth'
 
     model = torch.load(model_path, map_location='cpu')
     with torch.no_grad():

@@ -10,7 +10,7 @@ if __name__ == '__main__':
     parser.add_argument('--cuda', action='store_true', help='it is unnecessary')
     parser.add_argument('--target_class', type=int, default=-1, help='-1:untargeted')
     parser.add_argument('--popsize', type=int, default=1, help='the popsuze of DE')
-    parser.add_argument('--magnitude_factor', type=float, default=0.05, help='the value of beta')
+    parser.add_argument('--magnitude_factor', type=float, default=0.04, help='the value of beta')
     parser.add_argument('--maxitr', type=int, default=50, help='max iterations of DE')
     parser.add_argument('--run_tag', default='', help='the name of dataset e.g.ECG200')
     parser.add_argument('--model', default='f', help='the model type(ResNet,FCN),f:FCN r:Resnet')
